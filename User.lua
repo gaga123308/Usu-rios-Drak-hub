@@ -1,4 +1,4 @@
 return {
-    ["usbhsnbsosb"] = "Admin",
-    ["samuel_mi244"] = "Dono",
+    ["usbhsnbsosb"] = "Dono",
+    ["samuel_mi244"] = "Sub Dono",
 }
