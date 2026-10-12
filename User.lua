@@ -1,6 +1,6 @@
 return {
     ["usbhsnbsosb"] = "Dono",
     ["Sae3572"] = "Sub dono",
-    ["sadzin131"] = "yt",
     [""] = "yt",
+    ["sadzin131"] = "yt",
 }
