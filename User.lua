@@ -4,4 +4,5 @@ return {
     ["sadzin131"] = "yt",
     ["Gagadev"] = "yt",
     ["6742"] = "Dono",
+    ["test"] = "yt",
 }
